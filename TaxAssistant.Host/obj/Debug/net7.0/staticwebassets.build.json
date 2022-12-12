@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "bVYvq0dqv33JMZe7jm1513G0eiy5s+iwxYuL+em1o5I=",
+  "Source": "TaxAssistant.Host",
+  "BasePath": "_content/TaxAssistant.Host",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

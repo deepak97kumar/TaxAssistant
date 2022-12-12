@@ -1,0 +1,12 @@
+F:\Codes\TaxAssistant\TaxAssistant.Repository\bin\Debug\net7.0\TaxAssistant.Repository.deps.json
+F:\Codes\TaxAssistant\TaxAssistant.Repository\bin\Debug\net7.0\TaxAssistant.Repository.dll
+F:\Codes\TaxAssistant\TaxAssistant.Repository\bin\Debug\net7.0\TaxAssistant.Repository.pdb
+F:\Codes\TaxAssistant\TaxAssistant.Repository\obj\Debug\net7.0\TaxAssistant.Repository.csproj.AssemblyReference.cache
+F:\Codes\TaxAssistant\TaxAssistant.Repository\obj\Debug\net7.0\TaxAssistant.Repository.GeneratedMSBuildEditorConfig.editorconfig
+F:\Codes\TaxAssistant\TaxAssistant.Repository\obj\Debug\net7.0\TaxAssistant.Repository.AssemblyInfoInputs.cache
+F:\Codes\TaxAssistant\TaxAssistant.Repository\obj\Debug\net7.0\TaxAssistant.Repository.AssemblyInfo.cs
+F:\Codes\TaxAssistant\TaxAssistant.Repository\obj\Debug\net7.0\TaxAssistant.Repository.csproj.CoreCompileInputs.cache
+F:\Codes\TaxAssistant\TaxAssistant.Repository\obj\Debug\net7.0\TaxAssistant.Repository.dll
+F:\Codes\TaxAssistant\TaxAssistant.Repository\obj\Debug\net7.0\refint\TaxAssistant.Repository.dll
+F:\Codes\TaxAssistant\TaxAssistant.Repository\obj\Debug\net7.0\TaxAssistant.Repository.pdb
+F:\Codes\TaxAssistant\TaxAssistant.Repository\obj\Debug\net7.0\ref\TaxAssistant.Repository.dll

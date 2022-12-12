@@ -1,0 +1,12 @@
+F:\Codes\TaxAssistant\TaxAssistant.Calculator\bin\Debug\net7.0\TaxAssistant.Calculator.deps.json
+F:\Codes\TaxAssistant\TaxAssistant.Calculator\bin\Debug\net7.0\TaxAssistant.Calculator.dll
+F:\Codes\TaxAssistant\TaxAssistant.Calculator\bin\Debug\net7.0\TaxAssistant.Calculator.pdb
+F:\Codes\TaxAssistant\TaxAssistant.Calculator\obj\Debug\net7.0\TaxAssistant.Calculator.csproj.AssemblyReference.cache
+F:\Codes\TaxAssistant\TaxAssistant.Calculator\obj\Debug\net7.0\TaxAssistant.Calculator.GeneratedMSBuildEditorConfig.editorconfig
+F:\Codes\TaxAssistant\TaxAssistant.Calculator\obj\Debug\net7.0\TaxAssistant.Calculator.AssemblyInfoInputs.cache
+F:\Codes\TaxAssistant\TaxAssistant.Calculator\obj\Debug\net7.0\TaxAssistant.Calculator.AssemblyInfo.cs
+F:\Codes\TaxAssistant\TaxAssistant.Calculator\obj\Debug\net7.0\TaxAssistant.Calculator.csproj.CoreCompileInputs.cache
+F:\Codes\TaxAssistant\TaxAssistant.Calculator\obj\Debug\net7.0\TaxAssistant.Calculator.dll
+F:\Codes\TaxAssistant\TaxAssistant.Calculator\obj\Debug\net7.0\refint\TaxAssistant.Calculator.dll
+F:\Codes\TaxAssistant\TaxAssistant.Calculator\obj\Debug\net7.0\TaxAssistant.Calculator.pdb
+F:\Codes\TaxAssistant\TaxAssistant.Calculator\obj\Debug\net7.0\ref\TaxAssistant.Calculator.dll
