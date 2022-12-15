@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TaxAssistant.Calculator
-build_property.ProjectDir = f:\Codes\TaxAssistant\TaxAssistant.Calculator\
+build_property.ProjectDir = /Users/deepakk/MyFolder/DotNetDemo/TaxAssistant/TaxAssistant.Calculator/

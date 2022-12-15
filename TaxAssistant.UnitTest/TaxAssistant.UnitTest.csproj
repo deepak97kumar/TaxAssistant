@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk">
+	<PropertyGroup>
+		<TargetFramework>net7.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+		<IsPackable>false</IsPackable>
+	</PropertyGroup>
+	<ItemGroup>
+		<PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.3.2" />
+		<PackageReference Include="NUnit" Version="3.13.3" />
+		<PackageReference Include="NUnit3TestAdapter" Version="4.2.1" />
+		<PackageReference Include="NUnit.Analyzers" Version="3.3.0" />
+		<PackageReference Include="coverlet.collector" Version="3.1.2" />
+		<PackageReference Include="Moq" Version="4.18.3" />
+		<PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.0" />
+		<PackageReference Include="Microsoft.EntityFrameworkCore.InMemory" Version="7.0.0" />
+	</ItemGroup>
+	<ItemGroup>
+		<None Remove="Moq" />
+		<None Remove="Microsoft.EntityFrameworkCore" />
+		<None Remove="Microsoft.EntityFrameworkCore.InMemory" />
+		<None Remove="Helpers\" />
+		<None Remove="Calculator\" />
+		<None Remove="Repositories\" />
+	</ItemGroup>
+	<ItemGroup>
+		<ProjectReference Include="..\TaxAssistant.Repository\TaxAssistant.Repository.csproj" />
+		<ProjectReference Include="..\TaxAssistant.Calculator\TaxAssistant.Calculator.csproj" />
+	</ItemGroup>
+	<ItemGroup>
+		<Folder Include="Helpers\" />
+		<Folder Include="Calculator\" />
+		<Folder Include="Repositories\" />
+	</ItemGroup>
+</Project>

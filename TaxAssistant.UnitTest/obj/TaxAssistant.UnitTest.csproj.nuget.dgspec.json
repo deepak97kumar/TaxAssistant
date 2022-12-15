@@ -1,0 +1,258 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/deepakk/MyFolder/DotNetDemo/TaxAssistant/TaxAssistant.UnitTest/TaxAssistant.UnitTest.csproj": {}
+  },
+  "projects": {
+    "/Users/deepakk/MyFolder/DotNetDemo/TaxAssistant/TaxAssistant.Calculator/TaxAssistant.Calculator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/deepakk/MyFolder/DotNetDemo/TaxAssistant/TaxAssistant.Calculator/TaxAssistant.Calculator.csproj",
+        "projectName": "TaxAssistant.Calculator",
+        "projectPath": "/Users/deepakk/MyFolder/DotNetDemo/TaxAssistant/TaxAssistant.Calculator/TaxAssistant.Calculator.csproj",
+        "packagesPath": "/Users/deepakk/.nuget/packages/",
+        "outputPath": "/Users/deepakk/MyFolder/DotNetDemo/TaxAssistant/TaxAssistant.Calculator/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/deepakk/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/Users/deepakk/MyFolder/DotNetDemo/Geolocation/Geolocation.Calculator/bin/Debug": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/deepakk/MyFolder/DotNetDemo/TaxAssistant/TaxAssistant.Repository/TaxAssistant.Repository.csproj": {
+                "projectPath": "/Users/deepakk/MyFolder/DotNetDemo/TaxAssistant/TaxAssistant.Repository/TaxAssistant.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.UserSecrets": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/deepakk/MyFolder/DotNetDemo/TaxAssistant/TaxAssistant.Repository/TaxAssistant.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/deepakk/MyFolder/DotNetDemo/TaxAssistant/TaxAssistant.Repository/TaxAssistant.Repository.csproj",
+        "projectName": "TaxAssistant.Repository",
+        "projectPath": "/Users/deepakk/MyFolder/DotNetDemo/TaxAssistant/TaxAssistant.Repository/TaxAssistant.Repository.csproj",
+        "packagesPath": "/Users/deepakk/.nuget/packages/",
+        "outputPath": "/Users/deepakk/MyFolder/DotNetDemo/TaxAssistant/TaxAssistant.Repository/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/deepakk/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/Users/deepakk/MyFolder/DotNetDemo/Geolocation/Geolocation.Calculator/bin/Debug": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/deepakk/MyFolder/DotNetDemo/TaxAssistant/TaxAssistant.UnitTest/TaxAssistant.UnitTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/deepakk/MyFolder/DotNetDemo/TaxAssistant/TaxAssistant.UnitTest/TaxAssistant.UnitTest.csproj",
+        "projectName": "TaxAssistant.UnitTest",
+        "projectPath": "/Users/deepakk/MyFolder/DotNetDemo/TaxAssistant/TaxAssistant.UnitTest/TaxAssistant.UnitTest.csproj",
+        "packagesPath": "/Users/deepakk/.nuget/packages/",
+        "outputPath": "/Users/deepakk/MyFolder/DotNetDemo/TaxAssistant/TaxAssistant.UnitTest/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/deepakk/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/Users/deepakk/MyFolder/DotNetDemo/Geolocation/Geolocation.Calculator/bin/Debug": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/deepakk/MyFolder/DotNetDemo/TaxAssistant/TaxAssistant.Calculator/TaxAssistant.Calculator.csproj": {
+                "projectPath": "/Users/deepakk/MyFolder/DotNetDemo/TaxAssistant/TaxAssistant.Calculator/TaxAssistant.Calculator.csproj"
+              },
+              "/Users/deepakk/MyFolder/DotNetDemo/TaxAssistant/TaxAssistant.Repository/TaxAssistant.Repository.csproj": {
+                "projectPath": "/Users/deepakk/MyFolder/DotNetDemo/TaxAssistant/TaxAssistant.Repository/TaxAssistant.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.3.2, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.18.3, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
