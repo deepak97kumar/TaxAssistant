@@ -1,27 +1,29 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Codes\\TaxAssistant\\TaxAssistant.Repository\\TaxAssistant.Repository.csproj": {}
+    "/Users/deepakk/MyFolder/DotNetDemo/TaxAssistant/TaxAssistant.Repository/TaxAssistant.Repository.csproj": {}
   },
   "projects": {
-    "F:\\Codes\\TaxAssistant\\TaxAssistant.Repository\\TaxAssistant.Repository.csproj": {
+    "/Users/deepakk/MyFolder/DotNetDemo/TaxAssistant/TaxAssistant.Repository/TaxAssistant.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Codes\\TaxAssistant\\TaxAssistant.Repository\\TaxAssistant.Repository.csproj",
+        "projectUniqueName": "/Users/deepakk/MyFolder/DotNetDemo/TaxAssistant/TaxAssistant.Repository/TaxAssistant.Repository.csproj",
         "projectName": "TaxAssistant.Repository",
-        "projectPath": "F:\\Codes\\TaxAssistant\\TaxAssistant.Repository\\TaxAssistant.Repository.csproj",
-        "packagesPath": "C:\\Users\\Viraj\\.nuget\\packages\\",
-        "outputPath": "F:\\Codes\\TaxAssistant\\TaxAssistant.Repository\\obj\\",
+        "projectPath": "/Users/deepakk/MyFolder/DotNetDemo/TaxAssistant/TaxAssistant.Repository/TaxAssistant.Repository.csproj",
+        "packagesPath": "/Users/deepakk/.nuget/packages/",
+        "outputPath": "/Users/deepakk/MyFolder/DotNetDemo/TaxAssistant/TaxAssistant.Repository/obj/",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Viraj\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/deepakk/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "/Users/deepakk/MyFolder/DotNetDemo/Geolocation/Geolocation.Calculator/bin/Debug": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -41,6 +43,16 @@
           "targetAlias": "net7.0",
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
               "version": "[7.0.0, )"
             },
@@ -65,7 +77,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.100/RuntimeIdentifierGraph.json"
         }
       }
     }

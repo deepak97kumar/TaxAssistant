@@ -15,6 +15,6 @@ namespace TaxAssistant.Repository
         {
         }
 
-        public DbSet<Tax> Taxes { get; set; } = null!;
+        public virtual DbSet<Tax> Taxes { get; set; } = null!;
     }
 }

@@ -6,13 +6,13 @@ using System.Threading.Tasks;
 
 namespace TaxAssistant.Repository.Models
 {
-    public class Tax
+    public class Tax : IEntity
     {
         public Guid Id { get; set; }
         public string? MunicipalityName { get; set; }
         public string? TaxType { get; set; }
-        public DateTime? ValidFrom { get; set;}
-        public DateTime? ValidUntil { get; set;}
+        public DateTime? ValidFrom { get; set; }
+        public DateTime? ValidUntil { get; set; }
         public float? TaxFactor { get; set; }
     }
 }

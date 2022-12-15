@@ -4,6 +4,29 @@
     <TargetFramework>net7.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <UserSecretsId>f14ac090-f745-4517-883c-f03f71a60525</UserSecretsId>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="Microsoft.Extensions.DependencyInjection" />
+    <None Remove="Microsoft.Extensions.Configuration.UserSecrets" />
+    <None Remove="Microsoft.Extensions.Configuration" />
+    <None Remove="Interfaces\" />
+    <None Remove="Helpers\" />
+    <None Remove="Microsoft.AspNetCore.Mvc.Core" />
+    <None Remove="Validator\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="7.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.UserSecrets" Version="5.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Configuration" Version="7.0.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Interfaces\" />
+    <Folder Include="Helpers\" />
+    <Folder Include="Validator\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\TaxAssistant.Repository\TaxAssistant.Repository.csproj" />
+  </ItemGroup>
 </Project>
